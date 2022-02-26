@@ -7,6 +7,6 @@
 
 ✍ 도전중! ✍
 
-###Html & Java-script
+### Html & Java-script
 
 <img src="https://img.shields.io/badge/Html-FF4501?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/java-script-01F601?style=flat-square&logo=python&logoColor=white"/>
