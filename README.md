@@ -5,3 +5,6 @@
 👍Html 도 계속 공부중입니다!! ( 학교 공부해야하는데..ㅎ ) 👀
 
 
+✍ 도전중! ✍
+
+<img src="https://img.shields.io/badge/Html-FF4501?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/java-script-01F601?style=flat-square&logo=python&logoColor=white"/>
